@@ -1,0 +1,61 @@
+h1 {
+  color: #272044;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 26px;
+  font-weight: 200;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  color: #6c7592;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 17px;
+  list-style: none;
+}
+.temp {
+  color: #272044;
+  font-size: 40px;
+  font-weight: 300px;
+}
+
+.weather {
+  border: 1px solid #dadde1;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  border-radius: 15px;
+}
+
+.btn {
+  text-align: center;
+  font-size: 15px;
+  color: #272044;
+  background: #dadde1;
+  border: #6c7592;
+}
+h5 {
+  color: #272044;
+  text-align: center;
+}
+.emoji {
+  font-size: 70px;
+  position: relative;
+  top: -19px;
+}
+
+.card-title {
+  font-size: 16px;
+  padding: 16px;
+}
+.card-text {
+  text-align: center;
+}
+.unit {
+  position: relative;
+  top: -19px;
+  text-decoration-line: none;
+}
+
